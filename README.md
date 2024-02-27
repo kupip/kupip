@@ -5,8 +5,7 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa sarjana terapan inf
 
 ## Kepakaran
 
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-): Berpengalaman dalam pemrograman dengan bahasa C. Hal ini dapat dilihat melalui pembuatan tugas besar saya pada mata kuliah Dasar-Dasar Pemrograman.
+- **C**: Berpengalaman dalam pemrograman dengan bahasa C. Hal ini dapat dilihat melalui pembuatan tugas besar saya pada mata kuliah Dasar-Dasar Pemrograman.
 - **Critical Thinking**: Memiliki kemampuan dasar berpikir kritis. Khususnya dalam bekerja dalam kelompok, saya berusaha untuk berkontribusi dalam diskusi dengan kelompok saya.
 
 ## Pendidikan
