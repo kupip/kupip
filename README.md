@@ -1,25 +1,22 @@
 ### Hi there 👋
 ## Tentang Saya
 
-Selamat datang di profil GitHub saya! Saya seorang dosen dengan spesialisasi dalam **Computer Vision** dan **Data Science**. Dengan latar belakang yang kuat dalam bidang ini, saya berdedikasi untuk mengembangkan solusi inovatif dan menerapkan teknik analitik canggih untuk menyelesaikan masalah kompleks dalam dunia nyata.
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa sarjana terapan informatika di Politeknik Negeri Bandung dengan ketertarikan dalam **Sains Data** dan **Back-End Development**. Dengan ketertarikan dalam bidang ini, saya berusaha untuk mengembangkan minat saya dalam bidang ini untuk pengembangan karir saya ke depannya.
 
 ## Kepakaran
 
-- **Computer Vision**: Pengalaman dalam pengolahan gambar dan video, pengenalan pola, dan aplikasi kecerdasan buatan untuk interpretasi visual data.
-- **Data Science**: Keahlian dalam analisis data, machine learning, dan big data. Berpengalaman dalam menggunakan Python, R, TensorFlow, dan PyTorch untuk membangun model prediktif dan analitik.
+- **C**: Berpengalaman dalam pemrograman dengan bahasa C. Hal ini dapat dilihat melalui pembuatan tugas besar saya pada mata kuliah Dasar-Dasar Pemrograman.
+- **Critical Thinking**: Memiliki kemampuan dasar berpikir kritis. Khususnya dalam bekerja dalam kelompok, saya berusaha untuk berkontribusi dalam diskusi dengan kelompok saya.
 
 ## Pendidikan
 
-- 
-- Master dalam ....
+- MA Kafila (Lulus 2023)
+- MTs Al-Kahfi (Lulus 2020)
+- SD Daarul Quran (Lulus 2017)
 
 ## Proyek dan Kontribusi
-
-Saya telah berkontribusi pada berbagai proyek yang melibatkan analisis data kompleks, pengembangan algoritma machine learning, dan implementasi aplikasi computer vision. Beberapa highlight termasuk:
-
-- Pengembangan sistem pengenalan objek real-time untuk aplikasi keamanan.
-- Analisis sentimen pada data sosial media menggunakan teknik NLP untuk memahami tren dan opini publik.
-- 
+Saya telah berkontribusi pada proyek berikut:
+- Tic-Tac-Toe: Tugas Besar Dasar-Dasar Pemrograman
 
 
 ## Menghubungi Saya
