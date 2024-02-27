@@ -1,3 +1,4 @@
+# Halo👋
 ## Tentang Saya
 Selamat datang di profil GitHub saya! Saya seorang mahasiswa sarjana terapan informatika di Politeknik Negeri Bandung dengan ketertarikan dalam **Sains Data** dan **Back-End Development**. Dengan ketertarikan dalam bidang ini, saya berusaha untuk mengembangkan minat saya dalam bidang ini untuk pengembangan karir saya ke depannya.
 
