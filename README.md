@@ -25,3 +25,4 @@ Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 
 - Email: [muhammad.rafif.tif423@polban.ac.id](muhammad.rafif.tif423@polban.ac.id)
 - LinkedIn: [linkedin.com/in/rafif-genadratama-843139205](http://linkedin.com/in/rafif-genadratama-843139205)
+- ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/@genadratama)
