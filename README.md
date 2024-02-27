@@ -1,16 +1,30 @@
 ### Hi there 👋
+## Tentang Saya
 
-<!--
-**kupip/kupip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya! Saya seorang dosen dengan spesialisasi dalam **Computer Vision** dan **Data Science**. Dengan latar belakang yang kuat dalam bidang ini, saya berdedikasi untuk mengembangkan solusi inovatif dan menerapkan teknik analitik canggih untuk menyelesaikan masalah kompleks dalam dunia nyata.
 
-Here are some ideas to get you started:
+## Kepakaran
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Computer Vision**: Pengalaman dalam pengolahan gambar dan video, pengenalan pola, dan aplikasi kecerdasan buatan untuk interpretasi visual data.
+- **Data Science**: Keahlian dalam analisis data, machine learning, dan big data. Berpengalaman dalam menggunakan Python, R, TensorFlow, dan PyTorch untuk membangun model prediktif dan analitik.
+
+## Pendidikan
+
+- 
+- Master dalam ....
+
+## Proyek dan Kontribusi
+
+Saya telah berkontribusi pada berbagai proyek yang melibatkan analisis data kompleks, pengembangan algoritma machine learning, dan implementasi aplikasi computer vision. Beberapa highlight termasuk:
+
+- Pengembangan sistem pengenalan objek real-time untuk aplikasi keamanan.
+- Analisis sentimen pada data sosial media menggunakan teknik NLP untuk memahami tren dan opini publik.
+- 
+
+
+## Menghubungi Saya
+
+Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
+
+- Email: [muhammad.rafif.tif423@polban.ac.id](muhammad.rafif.tif423@polban.ac.id)
+- LinkedIn: [linkedin.com/in/rafif-genadratama-843139205](http://linkedin.com/in/rafif-genadratama-843139205)
